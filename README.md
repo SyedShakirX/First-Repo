@@ -1,2 +1,1 @@
-# First-Repo
-First Repo As A DevOps Hustler
+DevOps Is a culture that we implement in our orginization which not only improves the delivery of an application but is also responsible for Automation ,  Quality Assuarence , Contineous Monitoring and COntineous Testing.
